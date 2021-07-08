@@ -1,0 +1,3 @@
+LOGGER_QUEUE = None
+GSHEET_READER = None
+SHEET_INIT = False

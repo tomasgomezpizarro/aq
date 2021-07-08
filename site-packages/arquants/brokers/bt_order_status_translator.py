@@ -1,0 +1,17 @@
+btstatustranslator = {
+    'Accepted': '0',
+    'Partial': '1',
+    'Completed': '2',
+    'DoneForDay': '3',
+    'Canceled': '4',
+    'Replaced': '5',
+    'PendingCancel': '6',
+    'Stopped': '7',
+    'Rejected': '8',
+    'Suspended': '9',
+    'Submitted': 'A',
+    'Calculated': 'B',
+    'Expired': 'C',
+    'AcceptedForBidding': 'D',
+    'PendingReplace': 'E',
+}
